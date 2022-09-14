@@ -5,4 +5,3 @@ This website is about the responsive design. I wanted to show my "grid" and "fle
 Here is the [link](#https://drone-website-responsive.netlify.app/) for the website.
 
 
-[Go to Real Cool Heading section](#real-cool-heading)
